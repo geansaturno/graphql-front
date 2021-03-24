@@ -1,0 +1,14 @@
+{
+  "name": "graphql-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "tw-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@treinaweb/tw-dev-server": "^2.1.8"
+  }
+}
